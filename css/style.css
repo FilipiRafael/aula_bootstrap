@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font: 20px Arial, sans-serif;
+}
+
+.foto_principal {
+    border-radius: 50%;
+    width: 200px;
+    border: 3px #000 solid;
+    margin-left: 45px;
+    margin-top: 15px;
+}
+
+.navbar {
+    background-color: #58FAF4;
+}
+
+.quemsomos {
+    background-color: rgb(78, 79, 138);
+    color: white;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+
+.parceiros {
+    background-color: #58FAF4;
+    color: white;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
